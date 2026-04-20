@@ -1,4 +1,4 @@
-# -Customer-Behaviour-Data-Analyst-Portfolio-Project
+# Customer-Behaviour-Data-Analyst-Portfolio-Project
 Data analytics project showcasing customer behaviour using Python, Sql, Power BI
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete,end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
